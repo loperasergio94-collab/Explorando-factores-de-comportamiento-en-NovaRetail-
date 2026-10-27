@@ -1,5 +1,7 @@
 # NovaRetail+ — Factores de comportamiento asociados al ingreso del cliente
 
+![NovaRetail+ — Análisis de comportamiento del cliente](Portada%20del%20proyecto%201200%C3%97627%402x.png)
+
 Análisis exploratorio y correlacional sobre **15,000 clientes** de NovaRetail+, una plataforma de comercio electrónico en Latinoamérica, para responder una pregunta del equipo de **Crecimiento y Retención**:
 
 
