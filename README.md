@@ -2,6 +2,7 @@
 
 Análisis exploratorio y correlacional sobre **15,000 clientes** de NovaRetail+, una plataforma de comercio electrónico en Latinoamérica, para responder una pregunta del equipo de **Crecimiento y Retención**:
 
+
 > **¿Qué factores del comportamiento del cliente están más fuertemente asociados con el ingreso anual que generan para la empresa?**
 
 ⚠️ Este es un análisis **correlacional**: identifica asociaciones, no relaciones de causa-efecto.
